@@ -80,7 +80,7 @@ A smart city project that uses **Vehicle-to-Infrastructure** communication and A
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zwivhuya-tshutshu-3179b622b)
 - 📧 [Email](mailto:zwivhuyachantel@outlook.com)
