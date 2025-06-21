@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chantel Zwivhuya!
+# 👋 Hi there, I'm Zwivhuya Chantel!
 
 🎓 Final Year Software Development Student @ [Belgium Campus ITversity](https://www.belgiumcampus.ac.za)  
 💻 Aspiring Software Developer | 💡 IT Enthusiast | 🌐 IT Tech  
