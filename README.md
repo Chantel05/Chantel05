@@ -84,7 +84,8 @@ A smart city project that uses **Vehicle-to-Infrastructure** communication and A
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zwivhuya-tshutshu-3179b622b)
 - 📧 [Email](mailto:zwivhuyachantel@outlook.com)
-
+- 💻 [Github](https://github.com/github.com/zwivhuyachantel)
+  
 ---
 
 ## ✨ Tips for Customizing Your GitHub Profile
@@ -98,7 +99,7 @@ A smart city project that uses **Vehicle-to-Infrastructure** communication and A
 
 ---
 
-## ⚡ Fun Fact
+> Changing the world one solution at a time.
 
 I believe that creativity is a superpower in tech — and I’m here to code, create, and connect! 🚀✨
 ✨ Let's build the future of automation, AI and digital transformation together.
