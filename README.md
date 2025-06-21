@@ -101,3 +101,4 @@ A smart city project that uses **Vehicle-to-Infrastructure** communication and A
 ## ⚡ Fun Fact
 
 I believe that creativity is a superpower in tech — and I’m here to code, create, and connect! 🚀✨
+✨ Let's build the future of automation, AI and digital transformation together.
