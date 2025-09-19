@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Zwivhuya Chantel!
 
 🎓 Final Year Software Development Student @ [Belgium Campus ITversity](https://www.belgiumcampus.ac.za)  
-💻 Aspiring Software Developer | 💡 IT Enthusiast | 🌐 IT Tech  
+💻 Aspiring Software Developer | Aspiring Cybersecurity professional |💡 IT Enthusiast | 🌐 IT Tech  
 📍 Johannesburg, South Africa  
 
 [![LinkedIn](https://img.shields.io/badge/-Zwivhuya%20Tshutshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zwivhuya-tshutshu-3179b622b)](https://www.linkedin.com/in/zwivhuya-tshutshu-3179b622b)
@@ -35,6 +35,11 @@ With a focus on **programming** and **database development** and **IT Tech** IT 
 _Web Development Intern_  
 📆 November 2024 – May 2025  
 🌎 United States (Remote)  
+
+**Compuclinic Solutions (SITA)**
+_IT Technian_
+July 2025
+O.R.T International (Onsite)
 
 ---
 
